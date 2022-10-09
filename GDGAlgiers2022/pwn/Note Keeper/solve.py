@@ -44,10 +44,6 @@ def main():
     p.interactive()
 main()
 """
-c = 2
-1 ; c = 1
-0->1 ; c = 0
-1 
 python3 solve.py 3 works
 
 """
